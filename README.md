@@ -112,7 +112,6 @@ velour-restaurant/
 ├── vite.config.js
 └── package.json
 ```
-
 ## Author
 
 **Muhammad Yasir** — Frontend Engineer
